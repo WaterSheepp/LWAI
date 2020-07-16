@@ -1,0 +1,280 @@
+body {
+    background-color: #FFCDD2;
+}
+.disp {
+  display: inline-block;
+}
+
+footer { 
+    display: block;
+    position: absolute;
+    bottom: 0;
+}
+
+div.ab{
+  background-color:#FA8072;
+}
+
+.sec{
+  position: sticky;
+  top: 0;
+}
+
+.menu{
+  background-image:url("images/menuback.jpg");
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  top: 0;
+  -webkit-transition: 1s all;
+  transition: 1s all;
+}
+
+.menu li{
+  text-transform: capitalize;
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
+h1 {
+  text-align:center;
+  font-family: "Courier New";
+}
+
+
+p {
+  font-family: "Courier New";
+font-weight: "normal";
+font-style: "normal";
+}
+
+p.shadow{
+  text-shadow:2.7px 1.7px black;
+
+}
+
+a.line{
+  text-decoration:none;
+}
+
+h2.sell{
+  font-family: "Courier New";
+}
+
+span{
+  font-family: "Courier New";
+}
+
+#sec2{
+    background-color:#FFEBEE;
+    height: 75%;
+    position: absolute;
+    top: 253px;
+    left: 0;
+    width: 100%;
+}
+    
+i.left{
+    vertical-align:center;
+}
+    
+p.margen{
+    margin: 70px;
+    border: 1px solid black;
+}
+    
+.div1{
+    background-color: white;
+    width: 100%;
+    height: 300px;
+}
+
+.div2{
+    background-color: white;
+    width: 100%;
+    height: 285px;
+}
+
+.div3{
+    background-color: white;
+    width: 100%;
+    height: 370px;
+}
+    
+.div4{
+    background-color: white;
+    width: 100%;
+    height: 277px;
+}
+    
+.divtext{
+    width: 100%;
+    height: 17.9px;
+}
+
+.notfound .notfound-404 h2 {
+  font-family: "Courier New";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 110px;
+  font-size: 42px;
+  font-weight: normal;
+  color: #fff;
+  text-transform: capitalize;
+  text-shadow: 2.7px 1.7px black;
+  letter-spacing: 13px;
+  margin: 0;
+}
+
+.notfound a {
+  font-family: "Courier New";
+  display: inline-block;
+  text-transform: capitalize;
+  color: black;
+  text-decoration: none;
+  border: 2px solid;
+  background-image:url("images/menuback.jpg");
+  padding: 10px 40px;
+  font-size: 14px;
+  font-weight: 700;
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
+}
+
+
+#notfound {
+  position: relative;
+  height: 100vh;
+  background: #FFCDD2;
+}
+
+#notfound .notfound {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.notfound {
+  max-width: 767px;
+  width: 100%;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.notfound .notfound-404 {
+  position: relative;
+  height: 180px;
+  margin-bottom: 20px;
+  z-index: -1;
+}
+
+.notfound .notfound-404 h1 {
+  font-family: "Courier New";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50% , -50%);
+      -ms-transform: translate(-50% , -50%);
+          transform: translate(-50% , -50%);
+  font-size: 120px;
+  font-weight: normal;
+  margin-top: -40px;
+  margin-bottom: 0px;
+  margin-left: -12px;
+  letter-spacing: 0px;
+}
+
+img.imgI{
+  position: absolute;
+  right: 80px;
+  top: 300px;
+}
+
+img.img2{
+  position: absolute;
+  right: 80px;
+  top: 30px;
+}
+
+img.img3{
+  position: absolute;
+  right: 80px;
+  top: 285px;
+}
+
+.split{
+
+  height: 30%;
+  width: 15%;
+  position: absolute;
+
+}
+
+.left {
+  left: 65px;
+  bottom: 10%;
+  background-color: black;
+  padding: 20px;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.ceni {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  padding: 0px;
+  margin-left: -4.1%;
+  margin-top: -5%;
+  left: 65px;
+  
+}
+
+p.p{
+  text-align: center;
+}
+
+.p1:hover {
+
+  background-color: black;
+  color: white;
+
+}
+
+.dicar{
+  height: 40%;
+  width: 50%;
+  position: absolute;
+}
+
+
+img.cart{
+  border-radius: 50%;
+  padding: 0px;
+  margin-left: 5%;
+  margin-top: 5%;
+  left: 65px;
+  height: 200px;
+  width: 200px;
+}
+
+p.cart{
+  left: 90px;
+  top: 20px;
+  position: relative;
+}
+
+p.cart2{
+  left: 333px;
+  top: -15px;
+  position: relative;
+}
+
+
